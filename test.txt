@@ -1,2 +1,4 @@
 hello devops
 my devops journey start today
+learning linux and git
+day 2 of devops
